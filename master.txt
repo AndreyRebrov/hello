@@ -1,2 +1,4 @@
 Hello, git!
+bb git!
 Hello, world!
+Проверка 1
